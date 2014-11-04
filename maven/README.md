@@ -1,4 +1,4 @@
-# Spring Rest service demo with Maven 
+# Spring Rest service demo with Maven
 
 ## How to run
 Either
